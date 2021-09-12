@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Canine Age</string>
+    <string name="cual_es_tu_edad">¿ How old are you ?</string>
+    <string name="tu_edad">Your Age</string>
+    <string name="_calcular">calculate</string>
+    <string name="des_perro_edad">PerroEdad</string>
+    <string name="error_age">You must insert an age</string>
+    <string name="result1">Your Canine Age is %d Years</string>
+
+</resources>
